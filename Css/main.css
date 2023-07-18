@@ -6,6 +6,10 @@
   font-family: "poppins", sans-serif;
 }
 
+body {
+  background-color: seashell;
+}
+
 .chief-header {
   width: 1366px;
   height: 80px;
@@ -100,7 +104,7 @@
 
 .search-label {
   margin: 8px 0px;
-  font-size: 15px;
+  font-size: 13px;
   font-weight: 500;
 }
 
